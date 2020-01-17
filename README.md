@@ -1,0 +1,2 @@
+"# Simple-Calculator-JavaScript"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/Mustafoski/Simple-Calculator-JavaScript.git git push -u origin master
+"# Simple-Calculator-JavaScript"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/Mustafoski/Simple-Calculator-JavaScript.git git push -u origin master
